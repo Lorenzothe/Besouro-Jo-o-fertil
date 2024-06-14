@@ -3,10 +3,11 @@
 }
 .fundot1 {
     background-color: #C7C7C7;
-    top: -38px;
+    top: -54px;
     left: -8px;
     position: relative;
-    height: 75px;
+    height: 82px;
+    width: 1920px;
 }
 .titulo1 {
     font-size: 56px;
@@ -20,4 +21,10 @@
 .intro {
     font-size: 40px;
     text-align: center;
+}
+.separa1 {
+    width: 1920px;
+    position: relative;
+    left: -8px;
+    top: -29px;
 }
