@@ -3,4 +3,11 @@
 }
 .fundot {
     background-color: #C7C7C7;
+    top: -38px;
+    left: -8px;
+    position: relative;
+    height: 75px;
+}
+.titulo1 {
+    font-size: 56px;
 }
