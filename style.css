@@ -11,3 +11,13 @@
 .titulo1 {
     font-size: 56px;
 }
+.textot1 {
+    position: relative;
+    width: 769px;
+    top: -43px;
+    left: 77px;
+}
+.intro {
+    font-size: 40px;
+    text-align: center;
+}
