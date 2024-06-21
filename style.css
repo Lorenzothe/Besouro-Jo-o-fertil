@@ -10,6 +10,7 @@ body {
     left: -8px;
     position: relative;
     height: 82px;
+    width: 101.18%;;
 }
 .titulo1 {
     font-size: 50px;
@@ -30,7 +31,7 @@ body {
     position: relative;
     top: -29px;
     left: -8px;
-    width: 100%;
+    width: 101.18%;
 }
 .componentes {
     text-align: center;
@@ -42,7 +43,7 @@ body {
     position: relative;
     top: -29px;
     left: -8px;
-    width: 100%;
+    width: 101.18%;
 }
 .fundot2 {
     background-color: #797979;
