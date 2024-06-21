@@ -1,7 +1,6 @@
 body {
     width: 100%;
 }
-
 .site {
     background-color: #F5F5F5;
 }
@@ -13,7 +12,9 @@ body {
     height: 82px;
 }
 .titulo1 {
-    font-size: 56px;
+    font-size: 50px;
+    top: 20px;
+    position: relative;
 }
 .textot1 {
     position: relative;
@@ -28,4 +29,6 @@ body {
 .separa1 {
     position: relative;
     top: -29px;
+    left: -8px;
+    width: 100%;
 }
