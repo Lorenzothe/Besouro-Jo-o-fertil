@@ -52,6 +52,10 @@ body {
     height: 278px;
     top: -40px;
     right: 8px;
+
+    .kit {
+        text-align: center;
+    }
 }
 .chassi {
     position: inherit;
