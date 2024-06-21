@@ -26,9 +26,3 @@
     left: -8px;
     top: -29px;
 }
-@media( max-width: 840px ) {
-    body {
-    width: 805px;
-    height: 633px;
-    }
-}
