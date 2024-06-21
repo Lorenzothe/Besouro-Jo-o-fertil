@@ -50,14 +50,16 @@ body {
     width: 387px;
     position: relative;
     height: 278px;
-    top: -40px;
+    top: -69px;
     right: 8px;
 }
 .h2k {
     text-align: center;
+    font-size: 23px;
 }
 .chassi {
     position: inherit;
     height: 220px;
+    top: -10px;
 }
     
