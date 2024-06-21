@@ -35,3 +35,9 @@ body {
 .componentes {
     font-style: oblique;
 }
+.separa2 {
+    position: relative;
+    top: -29px;
+    left: -8px;
+    width: 100%;
+}
