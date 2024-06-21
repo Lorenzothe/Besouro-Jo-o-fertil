@@ -27,7 +27,7 @@
     top: -29px;
 }
 @media( max-width: 480px ) {
-    .container {
+    body {
     width: 300px;
     height: 150px;
     }
