@@ -33,7 +33,10 @@ body {
     width: 100%;
 }
 .componentes {
-    font-style: oblique;
+    text-align: center;
+    font-size: 42px;
+    position: relative;
+    top: -36px;
 }
 .separa2 {
     position: relative;
