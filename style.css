@@ -179,4 +179,33 @@ body {
     top: -155px;
     left: -8px;
     width: 101.18%;
+}
+.fundot6 {
+    background-color: #797979;
+    width: 387px;
+    top: -153px;
+    position: relative;
+    height: 278px;
+    right: 8px;
+}
+.temp {
+    position: inherit;
+    height: 220px;
+    top: -10px;
+}
+.tempt {
+    position: relative;
+    font-size: 39px;
+    left: 387px;
+    top: -519px;
+    font-family: "intersb";
+    width: 238%;
+    height: 100%;
+    text-align: center;
+}
+.tumi {
+    position: inherit;
+    height: 226px;
+    top: -223px;
+    left: 6px;
 }    
