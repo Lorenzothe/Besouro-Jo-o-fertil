@@ -1,5 +1,16 @@
+@font-face {
+    font-family: "inter";
+    src: url("./Inter-Black.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "intersb";
+    src: url("./Inter-SemiBold.ttf") format("truetype");
+}
+
 body {
     max-width: 100%;
+    font-family:
 }
 .site {
     background-color: #D9D9D9;
