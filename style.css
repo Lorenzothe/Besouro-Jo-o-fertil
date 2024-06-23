@@ -86,6 +86,12 @@ body {
     width: 387px;
     position: relative;
     height: 278px;
-    top: -69px;
+    top: -110px;
     right: 8px;
+}
+.modulo {
+    height: 230px;
+    position: relative;
+    top: -27px;
+    left: 23px;
 }    
