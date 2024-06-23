@@ -182,12 +182,12 @@ body {
 }
 .h3k {
     text-align: center;
-    font-size: 21px;
+    font-size: 19px;
 }
 .fundot6 {
     background-color: #797979;
     width: 387px;
-    top: -195px;
+    top: -190px;
     position: relative;
     height: 278px;
     right: 8px;
@@ -201,7 +201,7 @@ body {
     position: relative;
     font-size: 39px;
     left: 387px;
-    top: -519px;
+    top: -525px;
     font-family: "intersb";
     width: 238%;
     height: 100%;
@@ -209,7 +209,7 @@ body {
 }
 .tumi {
     position: inherit;
-    height: 244px;
-    top: -206px;
-    left: 6px;
+    height: 238px;
+    top: -185px;
+    left: 17px;
 }    
