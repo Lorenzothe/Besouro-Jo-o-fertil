@@ -163,14 +163,20 @@ body {
 .gast {
     position: relative;
     font-size: 39px;
-    right: 921px;
+    right: 887px;
     top: -352px;
     font-family: "intersb";
-    width: 238%;
+    width: 222%;
     height: 100%;
     text-align: center;
 }
 .h2k {
     text-align: center;
     font-size: 21px;
+}
+.separa5 {
+    position: relative;
+    top: -155px;
+    left: -8px;
+    width: 101.18%;
 }    
