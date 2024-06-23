@@ -151,20 +151,20 @@ body {
     width: 387px;
     position: relative;
     height: 278px;
-    top: -195px;
+    top: -192px;
     left: 914px;
 }
 .gfum {
-    height: 230px;
+    height: 244px;
     position: relative;
-    top: -27px;
-    left: 23px;
+    top: -23px;
+    left: 17px;
 }
 .gast {
     position: relative;
-    font-size: 37px;
+    font-size: 39px;
     right: 921px;
-    top: -341px;
+    top: -352px;
     font-family: "intersb";
     width: 238%;
     height: 100%;
@@ -172,5 +172,5 @@ body {
 }
 .h2k {
     text-align: center;
-    font-size: 23px;
+    font-size: 21px;
 }    
