@@ -71,4 +71,9 @@ body {
     height: 220px;
     top: -10px;
 }
-    
+.chassit {
+    position: relative;
+    font-size: 28px;
+    left: 500px;
+    top: -200px;
+}    
