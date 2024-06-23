@@ -80,4 +80,12 @@ body {
     width: 190%;
     height: 56%;
     text-align: center;
+}
+.fundot3 {
+    background-color: #797979;
+    width: 387px;
+    position: relative;
+    height: 278px;
+    top: -69px;
+    right: 8px;
 }    
