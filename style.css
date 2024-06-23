@@ -57,13 +57,10 @@ body {
 .fundot2 {
     background-color: #797979;
     width: 387px;
+    top: -69px;
     position: relative;
     height: 278px;
     right: 8px;
-}
-.fundoa1 {
-    position: relative;
-    top: -69px;
 }
 .h1k {
     text-align: center;
