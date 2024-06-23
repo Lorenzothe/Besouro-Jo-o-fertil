@@ -94,4 +94,14 @@ body {
     position: relative;
     top: -27px;
     left: 23px;
+}
+.modulot {
+    position: relative;
+    font-size: 37px;
+    right: 481px;
+    top: -329px;
+    font-family: "intersb";
+    width: 190%;
+    height: 56%;
+    text-align: center;
 }    
