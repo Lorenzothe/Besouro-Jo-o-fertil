@@ -104,4 +104,10 @@ body {
     width: 238%;
     height: 100%;
     text-align: center;
+}
+.separa3 {
+    position: relative;
+    top: -71px;
+    left: -8px;
+    width: 101.18%;
 }    
