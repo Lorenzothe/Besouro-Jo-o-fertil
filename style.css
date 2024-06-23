@@ -110,4 +110,19 @@ body {
     top: -113px;
     left: -8px;
     width: 101.18%;
+}
+.som {
+    position: inherit;
+    height: 220px;
+    top: -10px;
+}
+.somt {
+    position: relative;
+    font-size: 37px;
+    left: 481px;
+    top: -329px;
+    font-family: "intersb";
+    width: 190%;
+    height: 56%;
+    text-align: center;
 }    
