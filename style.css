@@ -73,8 +73,11 @@ body {
 }
 .chassit {
     position: relative;
-    font-size: 28px;
-    left: 500px;
-    top: -200px;
+    font-size: 37px;
+    left: 481px;
+    top: -329px;
     font-family: "intersb";
+    width: 190%;
+    height: 56%;
+    text-align: center;
 }    
