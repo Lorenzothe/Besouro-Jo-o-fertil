@@ -52,11 +52,11 @@
         justify-content: center;
         width: 97vw;
         justify-items: center;
+      
 
-        a{
-            margin: 10px;
-        
-        }
+    }
+    a.a{
+        margin: 10px;
     }
     .fundot1 {
         background-color: #797979;
@@ -293,6 +293,9 @@
             font-size: 37px;
             font-family: "interseb";
         }
+    }
+    a.a{
+        margin: 10px;
     }
     div.titulo{
         font-size: 50px;
