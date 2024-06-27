@@ -70,11 +70,7 @@
         justify-items: center;
 
         a{
-            font-size: 42px;
             margin: 10px;
-            position: relative;
-            left: 40px;
-            top: 4px;
         }
 
     }
@@ -121,7 +117,7 @@
         
         position: relative;
     
-       }
+    }
     h2.h1k {
         text-align: center;
         font-size: 23px;
@@ -315,6 +311,8 @@
     div.rodaepe{
         display: var(--grid);
         font-size: 20px;
+        background: #A6A6A6;
+        text-align: center;
     }
     div.c2{
         display: var(--flex);
