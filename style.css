@@ -298,15 +298,17 @@
             font-family: "interseb";
         }
     }
-    a.a{
+    a.b{
         margin: 10px;
         position: relative;
         left: 69px;
         top: 6px;
     }
     a.c{
-        left: 60px;
+        margin: 10px;
         position: relative;
+        left: 69px;
+        top: 6px;
     }
     div.titulo{
         font-size: 50px;
