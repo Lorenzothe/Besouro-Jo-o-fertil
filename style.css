@@ -60,6 +60,9 @@
     a.a{
         margin: 10px;
     }
+    a.b{
+        margin: 10px;
+    }
     .fundot1 {
         background-color: #797979;
         display: var(--grid); 
@@ -296,6 +299,9 @@
         }
     }
     a.a{
+        margin: 10px;
+    }
+    a.b{
         margin: 10px;
     }
     div.titulo{
