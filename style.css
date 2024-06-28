@@ -304,6 +304,9 @@
     a.b{
         margin: 10px;
     }
+    a.c{
+        margin: 10px;
+    }
     div.titulo{
         font-size: 50px;
         position: relative;
